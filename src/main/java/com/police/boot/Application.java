@@ -52,7 +52,6 @@ public class Application {
         SpringApplication.run(Application.class, args);
         logger.info("============= SpringBoot Start Success =============");
     }
-
 }
 
 
