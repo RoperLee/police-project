@@ -53,5 +53,4 @@ public class Application {
         logger.info("============= SpringBoot Start Success =============");
     }
 
-
 }
