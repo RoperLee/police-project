@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<mapper namespace="com.squirrel.boot.mapper.UserMapper">
+<mapper namespace="com.police.boot.mapper.UserMapper">
 
-    <resultMap type="com.squirrel.boot.model.User" id="User">
+    <resultMap type="com.police.boot.model.User" id="User">
         <result property="id" column="id"/>
         <result property="name" column="name"/>
         <result property="age" column="age"/>

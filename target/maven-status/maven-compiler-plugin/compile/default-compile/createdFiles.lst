@@ -1,2 +1,9 @@
-com/squirrel/boot/service/impl/UserService.class
-com/squirrel/boot/service/UserServiceFacade.class
+com/police/boot/service/UserServiceFacade.class
+com/police/boot/Application.class
+com/police/boot/config/ControllerFormatHttpMessageConverter.class
+com/police/boot/config/ControllerReturnFormat.class
+com/police/boot/controller/UserController.class
+com/police/boot/model/User.class
+com/police/boot/service/impl/UserService.class
+com/police/boot/config/ControllerExceptionReaper.class
+com/police/boot/mapper/UserMapper.class
